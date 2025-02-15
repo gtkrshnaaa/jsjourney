@@ -10,7 +10,7 @@ The following standard is a core part of **jsjourney**, ensuring a **consistent 
 
 ---
 
-### **Standardization of JavaScript for Consistency and Clarity**  
+### **Personal Standardization of JavaScript for Consistency and Clarity**  
 
 JavaScript offers multiple ways to achieve the same functionality, but without clear standardization, code can become inconsistent and difficult to maintain. This standard ensures order and discipline in writing JavaScript while keeping its core features intact. It is not a limitation but a guideline to build a strong and fundamental foundation in JavaScript.  
 
